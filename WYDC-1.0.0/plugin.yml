@@ -1,0 +1,16 @@
+name: WhyDoYouCheat
+main: it.ajstudios.wdyc.WDYC
+version: 1.0
+author: AJstudios
+commands:
+  ss:
+    alias: control
+    usage: /ss <player>
+    description: send a player to a server
+  reportlist:
+    alias: rlist
+    usage: /reportlist <player>
+    description: send the report list of a player
+  report:
+    aliases: r
+    usage: /report <player> <motivo>
