@@ -41,7 +41,7 @@ implemented a command for screenshare (SS)
 **COMMANDS**
 - /ss \<player> - Send the command executor and player to the server chosen in the config
 - /endss \<player> - Send the command executor and player to the server chosen in the config
-- /report \<player> \<motivo> - Send a message to those with wdyc.reports.see permission with the command executor, player and reason
+- /report \<player> \<reason> - Send a message to those with wdyc.reports.see permission with the command executor, player and reason
 - /reportlist \<player> - Show the last report received by a player
 
 **PERMS**
@@ -57,7 +57,7 @@ implemented a command for screenshare (SS)
 - Config lenguage: inglese
 
 **CONTACTS**
-- Support: [server discord](https://discord.io/AJstudios)
+- Support: [discord server](https://discord.io/AJstudios)
 
 - _Made by: AJstudios - Aaalibi w/Juro_
 
