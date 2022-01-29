@@ -1,0 +1,4 @@
+name: WDYC
+version: '${project.version}'
+main: it.ajstudios.wdyc.WDYC
+author: ajstudios
